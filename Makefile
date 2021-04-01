@@ -1,5 +1,5 @@
 hello:
-	echo "Testing ifg make works!!"
+	echo "Testing if make works!!"
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
